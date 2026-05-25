@@ -10,6 +10,6 @@ This repository contains all projects completed during my internship.
 Real-time password strength analyzer.
 
 Repository:
-https://github.com/USERNAME/six-eyes
+https://github.com/remaskm/6eyes-Password-Strength-Checker
 
 ---
