@@ -13,3 +13,11 @@ Repository:
 https://github.com/remaskm/6eyes-Password-Strength-Checker
 
 ---
+
+### 2. RotaCode
+terminal-based Caesar cipher game for basic encryption and decryption
+
+Repository:
+https://github.com/remaskm/RotaCode-Basic-Encryption-Decryption-Game
+
+---
