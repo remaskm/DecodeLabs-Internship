@@ -23,7 +23,7 @@ https://github.com/remaskm/RotaCode-Basic-Encryption-Decryption-Game
 ---
 
 ### 3. RedHook
-terminal-based Caesar cipher game for basic encryption and decryption
+Phishing triage platform simulating a real SOC analyst workflow.
 
 Repository:
 https://github.com/remaskm/Redhook-AI-Phishing-Triage-Engine
