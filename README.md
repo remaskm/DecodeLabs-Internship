@@ -27,3 +27,11 @@ Phishing triage platform simulating a real SOC analyst workflow.
 
 Repository:
 https://github.com/remaskm/Redhook-AI-Phishing-Triage-Engine
+
+---
+
+### 4. VaultScaan
+Local security auditing tool for your machine — no cloud, no telemetry, no data leaves your device.
+
+Repository: 
+https://github.com/remaskm/VaultScan--local-security-auditing-tool-for-your-machine
